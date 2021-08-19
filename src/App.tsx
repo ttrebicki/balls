@@ -44,7 +44,7 @@ function App() {
 		const shapesArray = [];
 		let index = 0;
 
-		for (let i = 0; i < 100; i++) {
+		for (let i = 0; i < 1500; i++) {
 			shapesArray.push(
 				<Shape
 					key={index++}
